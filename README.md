@@ -65,8 +65,8 @@ The **HR Analytics Dashboard** provides an interactive overview of workforce hea
 - **Absences by Department**: Stacked bars showing average absence by department.
 
 ### Overview Screenshot
-![HR Dashboard Overview]()
+![HR Dashboard Overview](HRDashboard_ppt.png)
 
 ### Insights Screenshot
-![HR Dashboard Insights]()
+![HR Dashboard Insights](HRDashboard_ppt1.png)
 
