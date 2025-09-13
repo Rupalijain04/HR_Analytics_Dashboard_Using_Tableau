@@ -17,7 +17,7 @@
 - **Source:** Internal HR data provided for the project (CSV / Excel export).
 
 ## **5. Tools & Techniques**
-- **Tools:** Tableau (dashboard & visualization), Microsoft Excel (data cleanup), SQL (data transformations/aggregations where required).  
+- **Tools:** Tableau (dashboard & visualization), Microsoft Excel (data cleanup).  
 - **Techniques:**  
   - Data cleaning (tenure calculation, handling missing values, categorical standardization).  
   - Calculation of KPIs: Turnover Rate, Avg Tenure, Avg Engagement, headcount by department.  
